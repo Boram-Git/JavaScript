@@ -7,7 +7,7 @@ package sec02.exam05;
 
 public class StringExample {
 	public static void main(String[] args) {
-		String name = "김보람";
+		String name = "김보람";      // 문자열 타입은 String *첫글자 대문자 사용
 		String job = "데이터분석가";
 		
 		System.out.println("이름: " + name);
