@@ -28,6 +28,10 @@ public class TEST {
 		// float = 1e2f; 컴파일 에러
 		//float = 1e2f; // 타입 float를 변수로 사용할 수 없다
 		
+		// double value = 2e-350; 컴파일 에러
+		//double value = 2e-350; // double 형식의 리터럴 2e-350이 범위를 벗어났습니다.
+		
+		
 		System.out.println(var1);
 		
 		System.out.println(var2);
@@ -40,5 +44,13 @@ public class TEST {
 		System.out.println(str);
 
 		System.out.println(v2);
+		
+		// 코드를 실행했을 때 출력되는 내용은? -> 출발합니다.
+		boolean stop = false;	// 변수 stop을 선언하고 false 값을 초기화 
+		if(stop) {				// if 조건문	
+			System.out.println("멈춥니다.");
+		} else {
+			System.out.println("출발합니다.");
+		}
 	}
 }
