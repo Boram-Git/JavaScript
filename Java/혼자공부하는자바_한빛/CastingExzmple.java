@@ -28,6 +28,19 @@ public class CastingExzmple {
 		 * 이 경우 소수점 이하 부분은 버려지고, 정수 부분만 저장된다.*/
 		double doubleValue = 3.14;
 		int intValue2 = (int) doubleValue;
-		System.out.println(intValue2);		
+		System.out.println(intValue2);
+		
+		
+		int intValue3 = 44032;
+		char charValue1 = (char) intValue3;
+		System.out.println(charValue1);
+		
+		long longValue = 500;
+		intValue = (int) longValue;
+		System.out.println(intValue);
+		
+		double doubleValue2 = 3.14;
+		intValue = (int) doubleValue2;
+		System.out.println(intValue);
 	}
 }
