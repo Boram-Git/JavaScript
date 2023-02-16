@@ -7,6 +7,8 @@ package sec03;
 
 public class PrimitiveAndStringConversionExample {
 
+	// String str = String.valueOf(기본타입값);
+	
 	public static void main(String[] args) {
 		int value1 = Integer.parseInt("10");
 		double value2 = Double.parseDouble("3.14");
