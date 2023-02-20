@@ -1,0 +1,37 @@
+1. 데이터 조회는 데이터 조작어이며, 데이터 분석에서 가장 많이 사용되는 명령어
+2. FROM -> WHERE -> GROUP BY 순으로 실행된다.
+3. FROM -> GROUP BY 순으로 작성해도 된다.
+4. GROUP BY는 집계함숭와 주로 사용되는 명령어
+5. 여러 열별로 그룹화가 가능하다.
+6. GROUP BY에 있는 열들을 SELECT에도 작성ㅇ해야 원하는 분석 결과를 확인할 수 있다.
+
+SQL 명령어를 보기 좋게 작성하기 위해서는 SPACE 및 TAB 키보드를 잘 활용해야 한다.
+SELECT [열1]
+	   ,[열2]
+	   ,[집계함수] AS [열이름]
+FROM	[테이블명]
+WHERE	[조건]
+GROUP
+   BY	[열1 ]
+	   ,[열2]
+HAVING	[조건]
+ORDER
+   BY	[열1];
+
+/***************SQL 명령어 작성법***************/
+/* 회원테이블(Customer)을 */
+/* 성별이 남성 조건으로 필터링하여 */
+/* 거주지역별로 회원수 집계 */
+/* 집계 회원수 100명 미만 조건으로 필터링 */
+/* 모든 열 조회 */
+/* 집계 회원수가 높은 순으로 */
+
+SELECT  ADDR
+		,COUNT(MEM_NO) AS 회원수
+  FROM  CUSTOMER
+ WHERE  GENDER = 'MAN'
+ GROUP
+    BY  ADDR
+HAVING  COUNT(MEM_NO) < 100
+ ORDER
+    BY  COUNT(MEM_NO) DESC;
