@@ -1,0 +1,93 @@
+product_code,category,type,brand,product_name,price
+1,electronic,camera,sony,sony new alpha,880000
+2,electronic,camera,canon,canon powershot,650000
+3,electronic,camera,olympus,olympus tough,730000
+4,electronic,television,tcl,tcl roku,930000
+5,electronic,television,samsung,samsung class,1250000
+6,electronic,television,lg,lg webos,1300000
+7,electronic,headphone,samsung,samsung galaxy buds,90000
+8,electronic,headphone,bose,bose quietcomfort,170000
+9,electronic,headphone,sony,sony professional,210000
+10,health,health care,cenovis,triplus,38000
+11,health,health care,alive,once daily,20000
+12,health,baby care,huggies,simply clean,15000
+13,health,baby care,cetaphil,organic oil,7000
+14,health,baby care,pampers,sensitive water,19000
+15,clothing,shirts,polo,slim fit,50000
+16,clothing,shirts,carhartt,workwear,40000
+17,clothing,dresses,dokotoo,neckline sleeve,70000
+18,clothing,dresses,dearcase,long sleeve,105000
+19,clothing,shoes,ugg,slipper,130000
+20,clothing,shoes,crocs,classic,50000
+21,clothing,bags,michael kors,crossbody,120000
+22,clothing,bags,coach,tote shouler,180000
+23,beauty,cleansing,senka,perfect whip,12000
+24,beauty,cleansing,neutrogena,deep clean,11000
+25,beauty,perfume,chanel,allure,90000
+26,beauty,perfume,annasui,rose,20000
+27,beauty,hair care,nizoral,anti dandruff,15000
+28,beauty,hair care,tea tree,for all,30000
+29,beauty,skin care,cerave,daily moisturizing,12000
+30,beauty,skin care,aveeno,oat to soothe dry,10000
+44,home,storage,iris,wire storage,42000
+57,home,storage,iris,drawer cabinet,33000
+62,home,storage,iris,storage box,38000
+75,home,storage,home it,broom holder,12000
+89,home,storage,home it,garage,17000
+111,home,storage,amazon,fabric basic drawer,25000
+112,home,storage,amazon,fabric 5 drawer,91000
+136,home,storage,amazon,7 shelf,73000
+142,home,storage,amazon,5 shelf,55000
+144,home,storage,amazon,3 shelf,38000
+145,home,appliances,shark,hose,37000
+151,home,appliances,shark,filter set,8000
+152,home,appliances,shark,pad,26000
+158,home,appliances,general electric,switch,23000
+170,home,appliances,general electric,drum light,5000
+185,home,appliances,general electric,refrigerator water filter,58000
+200,home,appliances,everydrop,whirlpool filter 3,45000
+218,home,appliances,everydrop,whirlpool filter 2,44000
+284,home,appliances,everydrop,whirlpool filter 1,43000
+306,automotive,equipment,klein,screwdriver,12000
+349,automotive,equipment,epauto,wrench,28000
+352,automotive,equipment,epauto,compressor,45000
+353,automotive,interior,km motors,handle cover,23000
+357,automotive,interior,ta,side pocket,12000
+360,automotive,interior,motor trend,floor set,35000
+361,automotive,interior,motor trend,trunk set,67000
+370,automotive,interior,motor trend,storage pocket,31000
+406,automotive,car care,chemical guys,metal polish,22000
+422,automotive,car care,chemical guys,sprayer,12000
+428,automotive,car care,chemical guys,remover,22000
+455,automotive,car care,chemical guys,brush,8000
+457,automotive,car care,chemical guys,window clean,9000
+465,automotive,car care,hopkins,ice ripper,8000
+467,automotive,car care,hopkins,ice scraper,12000
+487,automotive,car care,carstory,cushion,35000
+494,automotive,car care,miele,scc,280000
+502,hardware,robotics,pololu,beacon,33000
+505,hardware,robotics,pololu,motor carrier,45000
+509,hardware,robotics,pololu,voltage,39000
+511,hardware,robotics,pololu,jrk,62000
+518,hardware,robotics,amass,xt90 battery,8000
+523,hardware,robotics,amass,xt90,12000
+527,hardware,robotics,arduino,uno 3r,40000
+530,software,utilities,escan,antivirus pro,52000
+533,software,utilities,norton,internet 360 3 users,93000
+534,software,utilities,escan,antivirus for mac,32000
+558,software,utilities,escan,antivirus,42000
+561,software,utilities,norton,internet 360,45000
+565,software,utilities,norton,internet security,30000
+580,software,music,emedia,makemusic,109000
+584,software,music,sound forge,audio cleaning,110000
+598,software,music,magix,music maker,23000
+599,software,music,roxio,guitar pro,93000
+603,video game,game,playstation,watch dogs,41000
+614,video game,game,playstation,nba,34000
+623,video game,game,playstation,spider man,49000
+628,video game,game,playstation,demon souls,65000
+629,video game,game,playstation,assassin,73000
+637,video game,accessories,playstation,wireless headset,230000
+639,video game,accessories,playstation,wireless controller,450000
+643,video game,console,playstation,controller,210000
+644,video game,console,playstation,vr marvel,390000
