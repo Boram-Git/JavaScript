@@ -1,7 +1,5 @@
 package sec03;
 
-import sec02.exam01.integerLiteralExample;
-
 /*
 작성자: 김보람
 작성일: 2023-02-24
